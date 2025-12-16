@@ -41,9 +41,10 @@ Below are some important visual insights generated during the analysis:
 <img width="317" height="153" alt="image" src="https://github.com/user-attachments/assets/4f25a1bb-ffe8-488c-9b18-5410b9ad59c4" />
 
 
-### 🔹 Orders by Year
+### 🔹 Monthly Order Trend (2018)
 
-![Orders by Year](./visuals/orders_by_year.png)
+<img width="589" height="503" alt="image" src="https://github.com/user-attachments/assets/2d4384df-5e85-421a-bd0f-f64a2c37d8bc" />
+
 
 ### 🔹 Top Customers by Order Value
 
