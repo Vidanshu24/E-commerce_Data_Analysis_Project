@@ -106,7 +106,7 @@ Kaggle Dataset:
 ##  Future Improvements
 
 * Add more advanced visualizations
-* Build an interactive dashboard using **Streamlit or Power BI**
+* Build an interactive dashboard using **Tableau or Power BI**
 * Perform complex SQL joins and window functions
 * Implement **customer segmentation or CLV prediction**
 
