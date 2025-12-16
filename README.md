@@ -23,7 +23,7 @@ This is an end-to-end **Data Analyst portfolio project** that demonstrates how S
 The analysis answers several key ecommerce-related business questions, including:
 
 * What are all the **unique cities** customers are from?
-* How many **orders were placed in 2018**?
+* How many **orders were placed in 2017**?
 * What is the **total sales per product category**?
 * Who are the **top customers by order count and total spend**?
 * How does sales vary across categories and customers?
