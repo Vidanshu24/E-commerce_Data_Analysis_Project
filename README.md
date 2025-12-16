@@ -1,14 +1,14 @@
-# 🛒 Ecommerce Analysis Project (SQL + Python)
+#  Ecommerce Analysis Project (SQL + Python)
 
 This project analyzes an **E-commerce dataset using SQL queries executed through Python**, with insights visualized using Pandas and Matplotlib. It focuses on understanding **customer behavior, order patterns, and category-wise sales** using relational data analysis.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This is an end-to-end **Data Analyst portfolio project** that demonstrates how SQL and Python can be combined to answer real-world business questions.
 
-### 🔧 Tools Used
+###  Tools Used
 
 * **MySQL** – to store data and execute complex SQL queries
 * **Python** – to connect with the database and process query results
@@ -18,7 +18,7 @@ This is an end-to-end **Data Analyst portfolio project** that demonstrates how S
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 The analysis answers several key ecommerce-related business questions, including:
 
@@ -32,7 +32,7 @@ These questions help businesses improve **marketing, inventory planning, and cus
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 Below are some important visual insights generated during the analysis:
 
@@ -52,7 +52,7 @@ Below are some important visual insights generated during the analysis:
 
 ---
 
-## 📂 Files in This Repository
+##  Files in This Repository
 
 | File Name                    | Description                                        |
 | ---------------------------- | -------------------------------------------------- |
@@ -63,7 +63,7 @@ Below are some important visual insights generated during the analysis:
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1️⃣ Clone this repository:
 
@@ -85,7 +85,7 @@ jupyter notebook python+sql_ecommerce.ipynb
 
 ---
 
-## 📈 Business Value of This Analysis
+##  Business Value of This Analysis
 
 This project helps an e-commerce business:
 
@@ -96,14 +96,14 @@ This project helps an e-commerce business:
 
 ---
 
-## 📊 Dataset Source
+##  Dataset Source
 
 Kaggle Dataset:
 [https://www.kaggle.com/datasets/devarajv88/target-dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset)
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add more advanced visualizations
 * Build an interactive dashboard using **Streamlit or Power BI**
@@ -112,14 +112,14 @@ Kaggle Dataset:
 
 ---
 
-## 👤 Contact
+##  Contact
 
 Created by **Vidanshu**
 Feel free to connect with me:
 
 * 🔗 GitHub: [https://github.com/Vidanshu24](https://github.com/Vidanshu24)
 
-⭐ If you found this project helpful, please consider starring the repository!
+ If you found this project helpful, please consider starring the repository!
 
 ---
 
