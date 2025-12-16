@@ -38,7 +38,8 @@ Below are some important visual insights generated during the analysis:
 
 ### 🔹 Category-wise Sales Distribution
 
-![Category Sales](./visuals/category_sales.png)
+<img width="317" height="153" alt="image" src="https://github.com/user-attachments/assets/4f25a1bb-ffe8-488c-9b18-5410b9ad59c4" />
+
 
 ### 🔹 Orders by Year
 
