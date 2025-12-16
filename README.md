@@ -1,4 +1,4 @@
-#  Ecommerce Analysis Project (SQL + Python)
+#  E-commerce Analysis Project (SQL + Python)
 
 This project analyzes an **E-commerce dataset using SQL queries executed through Python**, with insights visualized using Pandas and Matplotlib. It focuses on understanding **customer behavior, order patterns, and category-wise sales** using relational data analysis.
 
