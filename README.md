@@ -23,7 +23,7 @@ This is an end-to-end **Data Analyst portfolio project** that demonstrates how S
 The analysis answers several key ecommerce-related business questions, including:
 
 * What are all the **unique cities** customers are from?
-* How many **orders were placed in 2017**?
+* How many **orders were placed in 2018**?
 * What is the **total sales per product category**?
 * Who are the **top customers by order count and total spend**?
 * How does sales vary across categories and customers?
@@ -46,7 +46,7 @@ Below are some important visual insights generated during the analysis:
 <img width="589" height="503" alt="image" src="https://github.com/user-attachments/assets/2d4384df-5e85-421a-bd0f-f64a2c37d8bc" />
 
 
-### 🔹 Top Customers by Order Value
+### 🔹 Top 3 customers by spending each year
 
 <img width="589" height="698" alt="image" src="https://github.com/user-attachments/assets/4f169a21-ee5c-4fa6-a0b4-97e9f9ae6541" />
 
