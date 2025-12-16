@@ -50,7 +50,6 @@ Below are some important visual insights generated during the analysis:
 
 <img width="589" height="698" alt="image" src="https://github.com/user-attachments/assets/4f169a21-ee5c-4fa6-a0b4-97e9f9ae6541" />
 
-
 ---
 
 ## 📂 Files in This Repository
@@ -61,7 +60,6 @@ Below are some important visual insights generated during the analysis:
 | `csv_to_sql.py`              | Python script to load CSV data into MySQL database |
 | `dataset_link.txt`           | Link to the original dataset source                |
 | `python+sql_ecommerce.ipynb` | Jupyter Notebook with SQL queries and analysis     |
-| `visuals/`                   | Saved charts and plots used in README              |
 
 ---
 
