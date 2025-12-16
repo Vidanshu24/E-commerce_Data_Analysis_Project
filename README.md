@@ -47,7 +47,8 @@ Below are some important visual insights generated during the analysis:
 
 ### 🔹 Top Customers by Order Value
 
-![Top Customers](./visuals/top_customers.png)
+<img width="589" height="698" alt="image" src="https://github.com/user-attachments/assets/4f169a21-ee5c-4fa6-a0b4-97e9f9ae6541" />
+
 
 > 📌 *These visualizations make insights easy to understand for non-technical stakeholders.*
 
